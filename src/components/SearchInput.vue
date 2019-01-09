@@ -61,6 +61,7 @@ export default {
     &.dark {
       color: #111;
       border-bottom-color: #111;
+      margin-top: 100px;
 
       &:focus {
         box-shadow: 0 14px 20px -10px rgba(#111,.3);
