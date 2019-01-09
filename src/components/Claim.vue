@@ -4,10 +4,10 @@
       spacer journey
     </h1>
     <p class="subclaim">
-      Let's begin amazing journey through our universe and discover places you never even seen.
+      Let's begin amazing journey through our universe and discover places you never even seen
     </p>
     <p class="subclaim">
-      Type anything space-related to begin journey.
+      Type anything space-related to begin journey
     </p>
   </div>
 </template>
