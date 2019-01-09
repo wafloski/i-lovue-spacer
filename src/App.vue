@@ -1,7 +1,7 @@
 <template>
   <div class="app">
     <div class="nav">
-      <router-link to="/">spacer</router-link>
+      <router-link to="/">home</router-link>
       <router-link to="/about">about</router-link>
     </div>
     <router-view/>
@@ -22,5 +22,21 @@
     margin: 0;
     padding: 0;
     min-height: 100vh;
+  }
+  .nav {
+    position: fixed;
+    height: 40px;
+    background-color: rgba(0,0,0,0.5);
+    color: #ddd;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    a {
+      color: inherit;
+      text-decoration: none;
+      padding: 0 10px;
+    }
   }
 </style>
