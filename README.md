@@ -1,5 +1,7 @@
 # i-lovue-spacer
 
+live: https://gifted-carson-7f1910.netlify.com
+
 ## Project setup
 ```
 npm install
